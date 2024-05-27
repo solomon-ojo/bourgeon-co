@@ -4,10 +4,10 @@ import Logo from '@/public/images/logo.png'
 
 export default function Header() {
   return (
-    <header className="absolute top-2 md:top-6 w-full z-30">
-      <div className="px-4 sm:px-6">
-        <div className="max-w-3xl mx-auto">
-          <div className="flex items-center justify-between h-14 border border-transparent [background:linear-gradient(theme(colors.white),theme(colors.white))_padding-box,linear-gradient(120deg,theme(colors.zinc.300),theme(colors.zinc.100),theme(colors.zinc.300))_border-box] rounded-lg px-3">
+    <header className="  w-full z-30 sticky top-0">
+      <div className="">
+        <div className=" mx-auto">
+          <div className="flex items-center justify-between h-14  border-transparent [background:linear-gradient(theme(colors.white),theme(colors.white))_padding-box,linear-gradient(120deg,theme(colors.zinc.300),theme(colors.zinc.100),theme(colors.zinc.300))_border-box] rounded-lg px-3">
 
             {/* Site branding */}
             <div className="shrink-0 mr-4">
