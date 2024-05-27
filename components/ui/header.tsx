@@ -6,8 +6,8 @@ export default function Header() {
   return (
     <header className="  w-full z-30 sticky top-0">
       <div className="">
-        <div className=" mx-auto">
-          <div className="flex items-center justify-between h-14  border-transparent [background:linear-gradient(theme(colors.white),theme(colors.white))_padding-box,linear-gradient(120deg,theme(colors.zinc.300),theme(colors.zinc.100),theme(colors.zinc.300))_border-box] rounded-lg px-3">
+        <div className=" mx-auto ">
+          <div className="md:px-20  flex items-center justify-between h-14  border-transparent [background:linear-gradient(theme(colors.white),theme(colors.white))_padding-box,linear-gradient(120deg,theme(colors.zinc.300),theme(colors.zinc.100),theme(colors.zinc.300))_border-box]  px-3">
 
             {/* Site branding */}
             <div className="shrink-0 mr-4">
