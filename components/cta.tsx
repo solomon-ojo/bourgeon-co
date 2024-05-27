@@ -23,10 +23,10 @@ export default function Features02() {
             <p className="text-lg text-zinc-500 mb-8">Gray removes creative distances by connecting beginners, pros, and every team in between. Are you ready to start your journey?</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:inline-flex sm:justify-center space-y-4 sm:space-y-0 sm:space-x-4">
               <div>
-                <a className="btn text-zinc-100 bg-zinc-900 hover:bg-zinc-800 w-full shadow" href="/request-demo">Request A Meeting</a>
+                <a className="btn text-zinc-100 bg-zinc-900 hover:bg-zinc-800 w-full shadow" href="https://calendar.app.google/5JqBYPj4hTdFjSQq6">Request A Meeting</a>
               </div>
               <div>
-                <a className="btn text-zinc-600 bg-white hover:text-zinc-900 w-full shadow" href="#0">Get Started</a>
+                <a className="btn text-zinc-600 bg-white hover:text-zinc-900 w-full shadow" href="https://bourgeon.bubbleapps.io/version-test">Get Started</a>
               </div>
             </div>
           </div>

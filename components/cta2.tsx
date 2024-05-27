@@ -21,7 +21,7 @@ export default function Features02() {
                 <a className="btn text-zinc-100 bg-zinc-900 hover:bg-zinc-800 w-full shadow" href="https://calendar.app.google/5JqBYPj4hTdFjSQq6">Free Consultation</a>
               </div>
               <div>
-                <a className="btn text-zinc-600 bg-white hover:text-zinc-900 w-full shadow" href="#0">Leave A Message</a>
+                <a className="btn text-zinc-600 bg-white hover:text-zinc-900 w-full shadow" href="https://bourgeon.bubbleapps.io/version-test">Leave A Message</a>
               </div>
             </div>
           </div>
