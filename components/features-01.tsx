@@ -18,15 +18,15 @@ export default function Features01() {
 
   useEffect(() => {
     heightFix()
-  }, [])   
+  }, [])
 
   return (
     <section className="relative bg-zinc-50">
       <div className="py-12 md:py-20">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
           <div className="max-w-3xl mx-auto text-center pb-12">
-            <h2 className="font-inter-tight text-3xl md:text-4xl font-bold text-zinc-900 mb-4">Go further than the speed of thought</h2>
-            <p className="text-lg text-zinc-500">AI reads and understands your designs, and with nothing more than a single line of feedback, perform complex actions autonomously.</p>
+            <h2 className="font-inter-tight text-3xl md:text-4xl font-bold text-zinc-900 mb-4">Move faster than the speed of thought</h2>
+            <p className="text-lg text-zinc-500">In our fast-passed world, speed is an invaluable asset. Develop faster to beat the competition</p>
           </div>
           <div>
             {/* Tabs buttons */}
@@ -94,7 +94,7 @@ export default function Features01() {
                   leaveFrom="opacity-100 translate-y-0"
                   leaveTo="opacity-0 translate-y-4"
                   beforeEnter={() => heightFix()}
-                  unmount={false}                      
+                  unmount={false}
                 >
                   <div className="inline-flex relative align-top">
                     <Image className="rounded-t-lg border border-transparent [background:linear-gradient(theme(colors.white),theme(colors.white))_padding-box,linear-gradient(120deg,theme(colors.zinc.300),theme(colors.zinc.100),theme(colors.zinc.300))_border-box] box-content shadow-2xl" src={FeatureImage01} width={600} height={360} alt="Feature 01" />
@@ -112,7 +112,7 @@ export default function Features01() {
                   leaveFrom="opacity-100 translate-y-0"
                   leaveTo="opacity-0 translate-y-4"
                   beforeEnter={() => heightFix()}
-                  unmount={false}                      
+                  unmount={false}
                 >
                   <div className="inline-flex relative align-top">
                     <Image className="rounded-t-lg border border-transparent [background:linear-gradient(theme(colors.white),theme(colors.white))_padding-box,linear-gradient(120deg,theme(colors.zinc.300),theme(colors.zinc.100),theme(colors.zinc.300))_border-box] box-content shadow-2xl" src={FeatureImage01} width={600} height={360} alt="Feature 02" />
@@ -130,7 +130,7 @@ export default function Features01() {
                   leaveFrom="opacity-100 translate-y-0"
                   leaveTo="opacity-0 translate-y-4"
                   beforeEnter={() => heightFix()}
-                  unmount={false}                      
+                  unmount={false}
                 >
                   <div className="inline-flex relative align-top">
                     <Image className="rounded-t-lg border border-transparent [background:linear-gradient(theme(colors.white),theme(colors.white))_padding-box,linear-gradient(120deg,theme(colors.zinc.300),theme(colors.zinc.100),theme(colors.zinc.300))_border-box] box-content shadow-2xl" src={FeatureImage01} width={600} height={360} alt="Feature 03" />
@@ -148,7 +148,7 @@ export default function Features01() {
                   leaveFrom="opacity-100 translate-y-0"
                   leaveTo="opacity-0 translate-y-4"
                   beforeEnter={() => heightFix()}
-                  unmount={false}                      
+                  unmount={false}
                 >
                   <div className="inline-flex relative align-top">
                     <Image className="rounded-t-lg border border-transparent [background:linear-gradient(theme(colors.white),theme(colors.white))_padding-box,linear-gradient(120deg,theme(colors.zinc.300),theme(colors.zinc.100),theme(colors.zinc.300))_border-box] box-content shadow-2xl" src={FeatureImage01} width={600} height={360} alt="Feature 04" />
