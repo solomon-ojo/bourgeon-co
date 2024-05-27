@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Creative',
-  description: 'Page description',
+  title: 'Bourgeon - Build your startup',
+  description: 'Everyone should be able to launch their business',
 }
 
 import Hero from '@/components/hero'
@@ -18,7 +18,7 @@ export default function Home() {
       <Features01 />
       <Features02 />
       <Features03 />
-      <PricingTabs />
+      {/* <PricingTabs /> */}
       <Testimonials />
       <Cta />
     </>
