@@ -25,7 +25,7 @@ export default function Features01() {
       <div className="py-12 md:py-20">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
           <div className="max-w-3xl mx-auto text-center pb-12">
-            <h2 className="font-inter-tight text-3xl md:text-4xl font-bold text-zinc-900 mb-4">Move faster than the speed of thought</h2>
+            <h2 className="font-inter-tight text-3xl md:text-4xl font-bold text-zinc-900 mb-4">Move faster than your thoughts</h2>
             <p className="text-lg text-zinc-500">In our fast-passed world, speed is an invaluable asset. Develop faster to beat the competition</p>
           </div>
           <div>
